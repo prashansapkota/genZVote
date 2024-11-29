@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Politicool 🎓🗳️</h1>
+  <h1>voteGyan 🎓🗳️</h1>
   <p>
     <i>A gamified mobile learning app that empowers young voters to engage with democracy.</i>
   </p>
@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  <img src="images/mockup.png" alt="Politicool Screenshot" width="600">
+  <img src="images/mockup.png" alt="voteGyan Screenshot" width="600">
 </div>
 
 ---
@@ -32,7 +32,7 @@
 
 ## **About The Project**
 
-**Politicool** is a mobile app designed to inspire young voters and make civic education fun, engaging, and rewarding. By gamifying the learning experience, it helps users understand the voting process and the importance of participation in democracy.
+**voteGyan** is a mobile app designed to inspire young voters and make civic education fun, engaging, and rewarding. By gamifying the learning experience, it helps users understand the voting process and the importance of participation in democracy.
 
 ---
 
@@ -74,7 +74,7 @@
 
 ## **Getting Started**
 
-Follow these steps to set up Politicool locally.
+Follow these steps to set up voteGyan locally.
 
 ### **Prerequisites**
 
