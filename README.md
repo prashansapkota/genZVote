@@ -22,26 +22,39 @@
    - [Installation](#installation)  
 5. [Usage](#usage)  
 6. [Roadmap](#roadmap)  
-7. [Contributing](#contributing)  
-8. [License](#license)  
-9. [Contact](#contact)  
-10. [Acknowledgments](#acknowledgments)  
+7. [Challenges](#challenges)  
+8. [Contributing](#contributing)  
+9. [License](#license)  
+10. [Contact](#contact)  
+11. [Acknowledgments](#acknowledgments)  
 
 ---
 
 ## **About The Project**
 
-Politicool is designed to inspire young voters by making civic education accessible, engaging, and rewarding. It addresses the challenges of voter disinterest and lack of knowledge by gamifying the learning process.
+**Politicool** is a mobile app created to inspire and empower young voters by gamifying the civic education experience. It addresses the knowledge gaps and disinterest often seen in youth voting patterns by providing an engaging, interactive, and rewarding platform.
+
+**Inspiration**  
+The idea for Politicool was born from the recognition that young people often feel disconnected from politics. By transforming civic education into a fun, gamified experience, Politicool aims to bridge the gap and make informed voting an exciting part of their routine.
 
 ---
 
 ## **Key Features**
 
-✅ **Interactive Learning Modules**: Bite-sized lessons on voting, government, and civic duties.  
-✅ **Quizzes & Challenges**: Earn points by testing your knowledge.  
-✅ **Rewards**: Redeem points for exciting prizes.  
-✅ **Notifications**: Stay updated on key election dates and deadlines.  
-✅ **Daily Challenges**: New challenges every day to keep you engaged.  
+✅ **Interactive Learning Modules**  
+Engage with bite-sized lessons on voting, government, and civic responsibilities.
+
+✅ **Quizzes & Challenges**  
+Earn points by testing your knowledge and completing daily challenges.
+
+✅ **Rewards**  
+Redeem points for real-world prizes and exclusive perks.
+
+✅ **Notifications**  
+Stay updated on important election deadlines and milestones.
+
+✅ **Daily Challenges**  
+Keep learning and earning every day with fresh content and tasks.
 
 ---
 
@@ -59,13 +72,16 @@ Politicool is designed to inspire young voters by making civic education accessi
 
 ## **Getting Started**
 
-Follow these steps to set up Politicool locally.
+Follow these instructions to set up the project locally.
 
 ### **Prerequisites**
 
-Ensure you have the following installed:  
 - [Node.js](https://nodejs.org/)  
-- npm (comes with Node.js)  
+- npm (included with Node.js)  
+- Expo CLI (Install globally):  
+  ```bash
+  npm install -g expo-cli
+
 - Expo CLI:  
   ```bash
   npm install -g expo-cli
