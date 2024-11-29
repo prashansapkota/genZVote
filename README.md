@@ -1,10 +1,25 @@
-# **Politicool** 
-
-**Politicool** is a mobile learning app that gamifies civic education for young voters. Learn about the voting process, government structure, and civic responsibilities, all while earning points to redeem exciting rewards. Empowering youth to engage in democracy has never been this fun!  
+<div align="center">
+  <h1>Politicool 🎓🗳️</h1>
+  <p>
+    <i>A gamified mobile learning app that empowers young voters to engage with democracy.</i>
+  </p>
+</div>
 
 ---
 
-![Politicool Screenshot](images/mockup.png)  
+<div align="center">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
+  <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" alt="Expo">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
+</div>
+
+---
+
+<div align="center">
+  <img src="images/mockup.png" alt="Politicool Screenshot" width="600">
+</div>
 
 ---
 
@@ -27,60 +42,42 @@
 
 ## **About The Project**
 
-**Politicool** was designed to tackle two major barriers faced by young voters:  
-- Lack of knowledge about the voting process.  
-- Disinterest in civic engagement.  
-
-By turning learning into an interactive, gamified experience, Politicool ensures that young voters are informed and motivated to participate in democracy.
-
-**Why Politicool?**  
-- 🕹️ **Interactive & Gamified Learning**: Makes education engaging with points, challenges, and rewards.  
-- 🗳️ **Real-World Impact**: Boosts youth voter turnout by bridging the knowledge gap.  
-- 🌍 **Accessible for All**: Built with inclusivity and usability in mind.  
+Politicool is designed to inspire young voters by making civic education accessible, engaging, and rewarding. It addresses the challenges of voter disinterest and lack of knowledge by gamifying the learning process.
 
 ---
 
 ## **Key Features**
 
-✅ **Interactive Lessons**: Bite-sized modules on voting, government, and civic duties.  
-✅ **Quizzes & Challenges**: Test your knowledge and earn points along the way.  
-✅ **Reward System**: Redeem points for exciting prizes.  
-✅ **Daily Challenges**: Fresh questions and challenges every day.  
-✅ **Notifications**: Stay updated on election dates and deadlines.  
-✅ **Real-World Impact**: Inspires youth to be active participants in democracy.
+✅ **Interactive Learning Modules**: Bite-sized lessons on voting, government, and civic duties.  
+✅ **Quizzes & Challenges**: Earn points by testing your knowledge.  
+✅ **Rewards**: Redeem points for exciting prizes.  
+✅ **Notifications**: Stay updated on key election dates and deadlines.  
+✅ **Daily Challenges**: New challenges every day to keep you engaged.  
 
 ---
 
 ## **Built With**
 
-### **Frontend**  
-- [React Native](https://reactnative.dev/)  
-- [Expo](https://expo.dev/)  
-
-### **Backend**  
-- [Express.js](https://expressjs.com/)  
-
-### **Database**  
-- [Firebase](https://firebase.google.com/)  
-
-### **AI Integration**  
-- [OpenAI GPT-4](https://openai.com/) for dynamic quiz generation.  
+<div align="center">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
+  <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" alt="Expo">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
+</div>
 
 ---
 
 ## **Getting Started**
 
-Follow these instructions to set up the project locally.
+Follow these steps to set up Politicool locally.
 
 ### **Prerequisites**
 
 Ensure you have the following installed:  
-- **Node.js**: [Download here](https://nodejs.org/).  
-- **npm**: Included with Node.js.  
-- **Expo CLI**: Install globally using:  
+- [Node.js](https://nodejs.org/)  
+- npm (comes with Node.js)  
+- Expo CLI:  
   ```bash
-  npm install -g expo-cli
-
-  ```sh
   npm install -g expo-cli
 
