@@ -1,76 +1,86 @@
-# **Politicool** 🎓🗳️
+# **Politicool** 
 
-**Politicool** is a mobile learning app that empowers young voters by educating them about the voting process, government structure, and civic responsibilities in an engaging and gamified way. By completing lessons, quizzes, and challenges, users earn points that can be exchanged for exciting prizes, fostering both education and participation in democracy.
-
----
-
-## Table of Contents
-
-1. [About The Project](#about-the-project)
-2. [Features](#features)
-3. [Built With](#built-with)
-4. [Getting Started](#getting-started)
-   - [Prerequisites](#prerequisites)
-   - [Installation](#installation)
-5. [Usage](#usage)
-6. [Roadmap](#roadmap)
-7. [Contributing](#contributing)
-8. [License](#license)
-9. [Contact](#contact)
-10. [Acknowledgments](#acknowledgments)
+**Politicool** is a mobile learning app that gamifies civic education for young voters. Learn about the voting process, government structure, and civic responsibilities, all while earning points to redeem exciting rewards. Empowering youth to engage in democracy has never been this fun!  
 
 ---
 
-## About The Project
-
-Politicool aims to address the disinterest and lack of knowledge among young voters by making civic education fun and interactive. By leveraging gamification and real-world rewards, the app transforms learning about government and voting into an exciting experience.
-
-### Why Politicool?
-- **Engaging:** Gamifies the learning process with challenges and rewards.
-- **Empowering:** Equips young voters with the knowledge needed to participate in democracy.
-- **Impactful:** Encourages youth to take action, bridging the gap between knowledge and participation.
+![Politicool Screenshot](images/mockup.png)  
 
 ---
 
-## Features
+## **Table of Contents**
 
-- **Interactive Learning Modules:** Lessons on voting processes, government, and civic duties.
-- **Quizzes and Challenges:** Test knowledge and earn points.
-- **Gamification:** Collect points to redeem prizes and unlock levels.
-- **Reward System:** Incentivize learning with redeemable points.
-- **Notifications:** Timely reminders for election dates, deadlines, and app challenges.
-- **Daily Questions:** Fresh daily challenges served via an Express.js backend.
-- **Real-World Impact:** Bridging knowledge gaps to increase youth voter turnout.
-
----
-
-## Built With
-
-### **Frontend:**
-- [React Native](https://reactnative.dev/)
-- [Expo](https://expo.dev/)
-
-### **Backend:**
-- [Express.js](https://expressjs.com/)
-
-### **Database:**
-- [Firebase](https://firebase.google.com/)
-
-### **AI Integration:**
-- [OpenAI GPT-4](https://openai.com/) for dynamic question generation.
+1. [About The Project](#about-the-project)  
+2. [Key Features](#key-features)  
+3. [Built With](#built-with)  
+4. [Getting Started](#getting-started)  
+   - [Prerequisites](#prerequisites)  
+   - [Installation](#installation)  
+5. [Usage](#usage)  
+6. [Roadmap](#roadmap)  
+7. [Contributing](#contributing)  
+8. [License](#license)  
+9. [Contact](#contact)  
+10. [Acknowledgments](#acknowledgments)  
 
 ---
 
-## Getting Started
+## **About The Project**
 
-Follow these steps to get a local version up and running.
+**Politicool** was designed to tackle two major barriers faced by young voters:  
+- Lack of knowledge about the voting process.  
+- Disinterest in civic engagement.  
 
-### Prerequisites
+By turning learning into an interactive, gamified experience, Politicool ensures that young voters are informed and motivated to participate in democracy.
 
-Ensure you have the following tools installed on your system:
-- **Node.js**: Download [here](https://nodejs.org/).
-- **npm**: Installed automatically with Node.js.
-- **Expo CLI**: Install by running:
+**Why Politicool?**  
+- 🕹️ **Interactive & Gamified Learning**: Makes education engaging with points, challenges, and rewards.  
+- 🗳️ **Real-World Impact**: Boosts youth voter turnout by bridging the knowledge gap.  
+- 🌍 **Accessible for All**: Built with inclusivity and usability in mind.  
+
+---
+
+## **Key Features**
+
+✅ **Interactive Lessons**: Bite-sized modules on voting, government, and civic duties.  
+✅ **Quizzes & Challenges**: Test your knowledge and earn points along the way.  
+✅ **Reward System**: Redeem points for exciting prizes.  
+✅ **Daily Challenges**: Fresh questions and challenges every day.  
+✅ **Notifications**: Stay updated on election dates and deadlines.  
+✅ **Real-World Impact**: Inspires youth to be active participants in democracy.
+
+---
+
+## **Built With**
+
+### **Frontend**  
+- [React Native](https://reactnative.dev/)  
+- [Expo](https://expo.dev/)  
+
+### **Backend**  
+- [Express.js](https://expressjs.com/)  
+
+### **Database**  
+- [Firebase](https://firebase.google.com/)  
+
+### **AI Integration**  
+- [OpenAI GPT-4](https://openai.com/) for dynamic quiz generation.  
+
+---
+
+## **Getting Started**
+
+Follow these instructions to set up the project locally.
+
+### **Prerequisites**
+
+Ensure you have the following installed:  
+- **Node.js**: [Download here](https://nodejs.org/).  
+- **npm**: Included with Node.js.  
+- **Expo CLI**: Install globally using:  
+  ```bash
+  npm install -g expo-cli
+
   ```sh
   npm install -g expo-cli
 
