@@ -5,6 +5,17 @@
   </p>
 </div>
 
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
+  <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" alt="Expo">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
+</div>
+
+---
 
 <div align="center">
   <img src="images/mockup.png" alt="Politicool Screenshot" width="600">
@@ -21,7 +32,7 @@
    - [Prerequisites](#prerequisites)  
    - [Installation](#installation)  
 5. [Usage](#usage)  
-6. [Roadmap](#roadmap)  
+6. [What's Next](#whats-next)  
 7. [Challenges](#challenges)  
 8. [Contributing](#contributing)  
 9. [License](#license)  
@@ -32,29 +43,31 @@
 
 ## **About The Project**
 
-**Politicool** is a mobile app created to inspire and empower young voters by gamifying the civic education experience. It addresses the knowledge gaps and disinterest often seen in youth voting patterns by providing an engaging, interactive, and rewarding platform.
-
-**Inspiration**  
-The idea for Politicool was born from the recognition that young people often feel disconnected from politics. By transforming civic education into a fun, gamified experience, Politicool aims to bridge the gap and make informed voting an exciting part of their routine.
+**Politicool** is a mobile app designed to inspire young voters and make civic education fun, engaging, and rewarding. By gamifying the learning experience, it helps users understand the voting process and the importance of participation in democracy.
 
 ---
 
 ## **Key Features**
 
-✅ **Interactive Learning Modules**  
-Engage with bite-sized lessons on voting, government, and civic responsibilities.
+1. **🎭 Personal Avatar**  
+   - Users can customize their avatars with prizes they earn.  
 
-✅ **Quizzes & Challenges**  
-Earn points by testing your knowledge and completing daily challenges.
+2. **📚 Lessons**  
+   - Easily-digestible, unbiased information on government and voting.  
+   - Curated lessons guide users through essential civic topics for voting success.  
 
-✅ **Rewards**  
-Redeem points for real-world prizes and exclusive perks.
+3. **🏅 Earn Points & Level Up**  
+   - Users earn points for completing lessons and questionnaires.  
+   - Points can be redeemed for avatar upgrades or other rewards.  
 
-✅ **Notifications**  
-Stay updated on important election deadlines and milestones.
+4. **⏰ Daily Challenge Questionnaire**  
+   - Quick and easy questions that reinforce learning and encourage streaks.  
+   - Example:
+     - **Question:** How many seats are in the Senate?  
+       **Answer:** 100. The Constitution grants each of the 50 states two senators, ensuring equal representation for all states regardless of population size.  
 
-✅ **Daily Challenges**  
-Keep learning and earning every day with fresh content and tasks.
+5. **🔔 Notifications**  
+   - Alerts to remind users about important voting deadlines and streaks.
 
 ---
 
@@ -72,15 +85,16 @@ Keep learning and earning every day with fresh content and tasks.
 
 ## **Getting Started**
 
-Follow these instructions to set up the project locally.
+Follow these steps to set up Politicool locally.
 
 ### **Prerequisites**
 
 - [Node.js](https://nodejs.org/)  
 - npm (included with Node.js)  
-- Expo CLI (Install globally):  
+- Expo CLI:  
   ```bash
   npm install -g expo-cli
+
 
 - Expo CLI:  
   ```bash
